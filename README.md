@@ -5,7 +5,7 @@ Native Android animation using the AnimatedVectorDrawable class
 
 ## Overview
 
-[Adobe After Effects](http://www.adobe.com/products/aftereffects.html) animations can be exported for Android using the [AnimatedVectorDrawable](https://developer.android.com/reference/android/graphics/drawable/AnimatedVectorDrawable.html) XML format using [bodymovin](https://github.com/bodymovin/bodymovin).
+[Adobe After Effects](http://www.adobe.com/products/aftereffects.html) animations can, with the use of the [bodymovin](https://github.com/bodymovin/bodymovin) plugin, be exported as XML for use as an Android [AnimatedVectorDrawable](https://developer.android.com/reference/android/graphics/drawable/AnimatedVectorDrawable.html).
 
 ## Alternative ([LottieTest repo](https://github.com/domingl/LottieTest))
 
