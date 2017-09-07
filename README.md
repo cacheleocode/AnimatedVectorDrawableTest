@@ -11,4 +11,4 @@ Native Android animation using the [AnimatedVectorDrawable](https://developer.an
 
 Core animations (opacity, paths, solid fills etc.) could gain a performance improvement when using AnimatedVectorDrawable. Starting from API 25, AnimatedVectorDrawable runs on RenderThread as opposed to on UI thread, meaning animations remain smooth even when there is heavy UI thread workload.
 
-Non-core animations such as gradient require the use of Lottie.
+Non-core animations such as gradient require the use of [Lottie](https://github.com/airbnb/lottie-android).
